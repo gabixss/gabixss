@@ -1,4 +1,10 @@
-Olá, meu nome é Gabrielle! ================================================================ ================================================================ Estudante de análise e desenvolvimento de sistemas -------------------------------------------------- 💡 Criando soluções inteligentes e escaláveis. Aprendendo sobre IA e desenvolvimento full-stack. * 🌍 Estou baseado no Brasil * ✉️ Você pode entrar em contato comigo em [gabriellesalesgomes@gmail.com](mailto:gabriellesalesgomes@gmail.com)[](mailto:gabriellesalesgomes@gmail.com) * 🧠 Estou aprendendo Java | JavaScript | #C | Python * 🤝 Estou aberto a colaborar em projetos desafiadores na área de tecnologia.
+Olá, meu nome é Gabrielle! 
+Estudante de análise e desenvolvimento de sistemas 
+💡 Criando soluções inteligentes e escaláveis. Aprendendo sobre IA e desenvolvimento full-stack. 
+🌍 Brasil
+✉️ Você pode entrar em contato comigo em: gabriellesalesgomes@gmail.com 
+🧠 Estou aprendendo Java | JavaScript | #C | Python 
+🤝 Estou aberto a colaborar em projetos desafiadores na área de tecnologia.
 
 ### Habilidades
 
