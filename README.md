@@ -1,5 +1,5 @@
 Olá, meu nome é Gabrielle! 
-Estudante de análise e desenvolvimento de sistemas 
+Tenho 18 anos e sou estudante de análise e desenvolvimento de sistemas 
 
 
 💡 Criando soluções inteligentes e escaláveis. Aprendendo sobre IA e desenvolvimento full-stack. 
