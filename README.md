@@ -5,7 +5,7 @@ Estudante de análise e desenvolvimento de sistemas
 💡 Criando soluções inteligentes e escaláveis. Aprendendo sobre IA e desenvolvimento full-stack. 
 
 
-🌍 Brasil
+🌍 Brasil | SP
 
 
 ✉️ Você pode entrar em contato comigo em: gabriellesalesgomes@gmail.com 
