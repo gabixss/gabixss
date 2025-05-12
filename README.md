@@ -14,7 +14,7 @@ Tenho 18 anos e sou estudante de análise e desenvolvimento de sistemas.
 🧠 Java | JavaScript | #C | Python 
 
 
-🤝 Estou aberto a colaborar em projetos desafiadores na área de tecnologia.
+🤝 Estou aberta a colaborar em projetos desafiadores na área de tecnologia.
 
 ### Habilidades
 
