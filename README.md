@@ -6,7 +6,7 @@ Systems analysis and development student
 
 💡 Creating smart and scalable solutions. Learning about AI and full-stack development.
 
-* 🌍  I'm based in Brasil
+* 🌍  Brasil
 * ✉️  You can contact me at [gabriellesalesgomes@gmail.com](mailto:gabriellesalesgomes@gmail.com)
 * 🧠  I'm learning Java | JavaScript | #C | Python
 * 🤝  I'm open to collaborating on projetos desafiadores na área de tecnologia.
